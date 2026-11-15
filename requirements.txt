@@ -2,3 +2,4 @@ google-adk
 litellm
 python-dotenv
 langchain-tavily
+tzdata
